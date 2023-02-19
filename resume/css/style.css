@@ -250,3 +250,15 @@ footer {
   display: initial;
   text-align: center;
 }
+.img-fluid {
+  width: 100%;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+  border: 3px solid #fff;
+  padding: 30px;
+  background-size: 35%;
+}
+.carousel-control-next, .carousel-control-prev {
+  background: rgba(0, 0, 0, .7);
+  width: 25%;
+}
